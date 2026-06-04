@@ -5,4 +5,10 @@ $${\color{gray}Artist,\space Animator,\space Graphic\space Designer,\space and\s
 
 $${c+h,\space w2i,\space interact\space =\space freely.\space (unless\space i\space have\space dni.)}$$
 
-![](https://github.com/AcxerSonnellino/wip/blob/32bd3a34991c68998940742831cc7cb4b3e140a2/Untitled239_20260604153628.png)
+$${︵\space sys\space .\space iwcare(sometimes)\space ︵}$$
+
+
+$${my\space main\space favourite\space character/kin\space (i\space have\space more\space but\space couldnt\space fit\space them\space all-)}$$
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/wip/blob/32bd3a34991c68998940742831cc7cb4b3e140a2/Untitled239_20260604153628.png" alt="Centered Image" width="500">
+</p>
