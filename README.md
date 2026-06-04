@@ -22,16 +22,3 @@ $${\color{blue}my\space main\space favourite\space character/kin\space (i\space 
 <p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      ᯓ★      <a href=https://en.pronouns.page/@Acxersaurus>pronous.page</a>
   
 $${strawpage\space on\space wip/remaking.}$$
-
-
-<table align="center">
-  <tr>
-    <td><img src="image1.png" alt="Left" width="250"/></td>
-    <td><img src="image2.png" alt="Right" width="250"/></td>
-  </tr>
-  <tr align="center">
-    <td><b>Left Caption</b></td>
-    <td><b>Right Caption</b></td>
-  </tr>
-</table>
-
