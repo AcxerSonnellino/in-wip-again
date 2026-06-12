@@ -35,5 +35,11 @@ $${strawpage\space on\space wip/remaking.}$$
 
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/wip/blob/5c8cea6f5083673765ff352381afdf09ee629e64/5012c46d05bf710a980d5e3eb134547f.jpg" alt="Centered Image" width="400">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/02181b41f3c7cc45781633d89489eaa787908f59/cc263e4ffb50543ddad6ad633ec5bee8.webp.jpg" alt="Centered Image" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/1ce03fedd7b0f1f324c7eb0a43d681ec77df557f/1426e4b725fa9f8403fcf0e711e70c5c.webp.jpg" alt="Centered Image" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/AcxerSonnellino/AcxerSonnellino/blob/0c09387a4367f6ee88ecd7edc3ef5d8e55715646/78226a8d2ecbd6210dbe9db079a243d9.webp.jpg" alt="Centered Image" width="500">
 </p>
