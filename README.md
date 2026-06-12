@@ -29,7 +29,7 @@ $${\color{lightsteelblue}my\space main\space favourite\space character/kin\space
 
 
 
-<p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      ᯓ★      <a href=https://en.pronouns.page/@Acxersaurus>pronous.page . outdated .</a>
+<p align="center"> <a href=https://acxersaurus.atabook.org/>ata</a>      ᯓ★      <a href=https://pronouns.cc/@Acxersaurus>pronous.cc</a>
   
 $${strawpage\space on\space wip/remaking.}$$
 
