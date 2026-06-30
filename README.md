@@ -7,7 +7,7 @@ $$\color{#8eb6b9}{\text{⭑𓂃 " 𝚈𝐨𝚞 𝐦𝚒𝐠𝚑𝐭 𝚊𝐬 �
 </p>
 
 <p align="center">
-  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/13e4d27bf3a70feebb5c2cdb0c0ab7c8c01c6f89/Untitled245_20260629230406.png" alt="Description" width="700">
+  <img src="https://github.com/AcxerSonnellino/in-wip-again/blob/13e4d27bf3a70feebb5c2cdb0c0ab7c8c01c6f89/Untitled245_20260629230406.png" alt="Description" width="900">
 </p>
 
 
